@@ -1,1 +1,28 @@
 /* Write your CSS here! */
+body {
+    margin: 8px;
+    display: block;
+}
+
+#mainHeading{
+   color: red;
+   text-align: center;
+}
+h2{
+  text-align: center;
+}
+#smallPic1{
+  text-align: left;
+}
+#smallPic2{
+  text-align: center;
+}
+#largePic{
+  text-align: right;
+}
+.funParagraph{
+  color: green;
+  }
+#classPara{
+  padding: 15px;
+}
