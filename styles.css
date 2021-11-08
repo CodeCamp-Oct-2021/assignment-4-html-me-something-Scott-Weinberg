@@ -6,7 +6,17 @@ body {
 
 #mainHeading{
    color: red;
+   text-align: center;
 }
-#allen{
-  
+h2{
+  text-align: center;
+}
+#smallPic1{
+  text-align: left;
+}
+#smallPic2{
+  text-align: center;
+}
+#largePic{
+  text-align: right;
 }
